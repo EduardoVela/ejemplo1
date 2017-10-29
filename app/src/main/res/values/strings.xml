@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ejemplo1</string>
+    <string name="ejemplo">practica</string>
+    <string name="nombre">NOMBRE:</string>
+    <string name="apellido">APELLIDO</string>
+    <string name="guardar">GUARDAR</string>
+    <string name="mostras">MOSTRAR LISTA</string>
+    <string name="imagenes">IMAGENES</string>
+</resources>
